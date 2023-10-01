@@ -1,3 +1,2 @@
-"""You Project Goes Here."""
-
-print("Hello Karyar")
+"""Server part."""
+print("hello")

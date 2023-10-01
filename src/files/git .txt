@@ -1,0 +1,10 @@
+echo "# cautious-octo-waffle" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AliZDone/cautious-octo-waffle.git
+git push -u origin main
+git remote add origin https://github.com/AliZDone/cautious-octo-waffle.git
+git branch -M main
+git push -u origin main
